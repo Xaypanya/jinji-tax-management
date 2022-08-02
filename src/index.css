@@ -1,0 +1,13 @@
+table {
+  width: 100%;
+  /* border: 1px solid #171a5d; */
+}
+
+td, th {
+  border: 1px solid #171a5d;
+  padding: 15px 5px;
+}
+
+th {
+  opacity: 80%;
+}
